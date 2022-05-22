@@ -1,1 +1,1 @@
-# Regla-de-Tres-P-gina-Web
+# Regla-de-Tres-Pagina-Web
